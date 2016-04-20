@@ -1,3 +1,6 @@
+##**Updated Ionic2 version of this sample application is available here [https://github.com/aaronksaunders/Ionic2-NutritionSample](https://github.com/aaronksaunders/Ionic2-NutritionSample)**
+
+
 # Ionic-NutritionSample
 
 Collection Repeat w/ $http and $resource Factory Example
